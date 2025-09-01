@@ -12,5 +12,5 @@ utilizando distintos métodos de **regresión no lineal** vistos en clase:
 ## Índice
 
 1. [Notebook](./A1.6%20Regresion%20no%20lineal.ipynb)  
-2. [HTML del notebook](./A1.6%20Regresion%20no%20lineal.html)  
+2. [HTML del notebook](./A1.6 Regresión no lineal.html)  
 3. [A1.6 Tiempo de Entrega.csv](./A1.6%20Tiempo%20de%20Entrega.csv) 
